@@ -13,6 +13,8 @@ tags:
 ---
 ## You Rock, Netlify
 
+*Edit:: ZOMG Netlify created a branch for the new post!! It's like Software Development and Content Publishing had a well-organized lovechild!*
+
 I am continually impressed at how easy to use this platform is. The UI is phenomenal, the UX is on point. I could gush for days (and probably will, no shame).
 
 Full disclosure, though:
